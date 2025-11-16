@@ -35,7 +35,7 @@ export default {
   data() {
     return {
       currentView: 'Dashboard',
-      visible: true,
+      visible: false,
     }
   },
   computed: {
